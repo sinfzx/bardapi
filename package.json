@@ -7,8 +7,7 @@
   "author": "",
   "license": "ISC",
   
-  },
- 
+
   "dependencies": {
     "googlebard": "^1.0.7",
    
