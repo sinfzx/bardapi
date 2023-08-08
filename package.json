@@ -1,0 +1,17 @@
+{
+  "name": "bardai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "_worker.js",
+ 
+  "author": "",
+  "license": "ISC",
+  
+  },
+ 
+  "dependencies": {
+    "googlebard": "^1.0.7",
+   
+  },
+ 
+}
